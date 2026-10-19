@@ -1,0 +1,4 @@
+interface:
+  display_name: "lvgl帧率优化"
+  short_description: "诊断LVGL绘制、传输和刷新节拍瓶颈，验证帧率与退出资源释放"
+  default_prompt: "使用 $lvgl-fps-optimization 分析本项目的实际帧率瓶颈，实施优化并验证帧节拍、视觉与资源释放。"
